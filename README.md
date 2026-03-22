@@ -8,9 +8,9 @@
 </p>
 
 <p>
-  <a href="https://github.com/你的用户名/TinyClaw-UI/stargazers"><img src="https://img.shields.io/github/stars/你的用户名/TinyClaw-UI?style=social" alt="Stars"></a>
-  <a href="https://github.com/你的用户名/TinyClaw-UI/forks"><img src="https://img.shields.io/github/forks/你的用户名/TinyClaw-UI?style=social" alt="Forks"></a>
-  <a href="https://github.com/你的用户名/TinyClaw-UI/releases"><img src="https://img.shields.io/github/v/release/你的用户名/TinyClaw-UI?color=green" alt="Release"></a>
+  <a href="https://github.com/ClawSparks/TinyClaw-UI/stargazers"><img src="https://img.shields.io/github/stars/ClawSparks/TinyClaw-UI?style=social" alt="Stars"></a>
+  <a href="https://github.com/ClawSparks/TinyClaw-UI/forks"><img src="https://img.shields.io/github/forks/ClawSparks/TinyClaw-UI?style=social" alt="Forks"></a>
+  <a href="https://github.com/ClawSparks/TinyClaw-UI/releases"><img src="https://img.shields.io/github/v/release/ClawSparks/TinyClaw-UI?color=green" alt="Release"></a>
   <img src="https://img.shields.io/badge/OpenClaw-Compatible-brightgreen" alt="OpenClaw Compatible">
 </p>
 
@@ -55,7 +55,7 @@ TinyClaw-UI 是为 **OpenClaw**（以及 Pyra 生态）量身定制的现代 Web
 ### 1. 前置要求
 
 - 已运行的 OpenClaw Gateway（推荐最新版）
-- Node.js ≥ 18
+- Node.js ≥ 22
 - pnpm / yarn / npm
 
 ### 2. 安装 & 启动

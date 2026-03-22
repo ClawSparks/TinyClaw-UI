@@ -46,7 +46,7 @@ TinyClaw-UI 是为 **OpenClaw**（以及 Pyra 生态）量身定制的现代 Web
 
 | 仪表盘概览                  | 多智能体聊天              | 对话通道配置           |
 |-----------------------------|-----------------------------|-----------------------------|
-| ![Dashboard](index.jpg) | ![Chat](chat.jpg) | ![Channel Config Config](channel) |
+| ![Dashboard](index.jpg) | ![Chat](chat.jpg) | ![Channel Config Config](channel.jpg) |
 
 
 ## 快速开始

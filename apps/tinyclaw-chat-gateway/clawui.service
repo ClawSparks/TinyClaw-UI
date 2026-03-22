@@ -1,0 +1,16 @@
+[Unit]
+Description=ClawUI Service
+After=network.target
+
+[Service]
+Type=simple
+Environment=PORT=3115
+Environment=NODE_ENV=production
+Environment=CLAWUI_DATA_DIR=.clawui_release
+WorkingDirectory=/home/ange/Dev/Antigravity/clawui/backend
+ExecStart=/usr/bin/node dist/index.js
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=default.target

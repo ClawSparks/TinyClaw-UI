@@ -1,0 +1,20 @@
+{
+  "name": "clawui",
+  "version": "1.0.0",
+  "description": "OpenClaw Web Client",
+  "private": true,
+  "scripts": {
+    "dev": "export BACKEND_PORT=3100 FRONTEND_PORT=3105 CLAWUI_DATA_DIR=.clawui_dev && concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "release": "export BACKEND_PORT=3110 FRONTEND_PORT=3115 CLAWUI_DATA_DIR=.clawui_release && npm run build && concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "build": "npm run build:backend && npm run build:frontend",
+    "build:backend": "cd backend && npm run build",
+    "build:frontend": "cd frontend && npm run build",
+    "start:backend": "cd backend && PORT=3110 CLAWUI_DATA_DIR=.clawui_release npm start",
+    "start:frontend": "cd frontend && npx vite preview --port 3115 --host"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

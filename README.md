@@ -44,11 +44,10 @@ TinyClaw-UI 是为 **OpenClaw**（以及 Pyra 生态）量身定制的现代 Web
 
 <!-- 你可以后续把实际截图上传到仓库的 assets/ 文件夹，然后替换下面链接 -->
 
-| 仪表盘概览                  | 多智能体聊天室              | 智能体配置页面              |
+| 仪表盘概览                  | 多智能体聊天              | 对话通道配置           |
 |-----------------------------|-----------------------------|-----------------------------|
-| ![Dashboard](assets/dashboard.png) | ![Multi-Agent Chat](assets/multi-chat.png) | ![Agent Config](assets/agent-config.png) |
+| ![Dashboard](index.jpg) | ![Chat](chat.jpg) | ![Channel Config Config](channel) |
 
-> 更多截图见 [screenshots](./docs/screenshots.md)
 
 ## 快速开始
 

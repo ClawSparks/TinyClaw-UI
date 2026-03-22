@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/OpenClaw-Compatible-brightgreen" alt="OpenClaw Compatible">
 </p>
 
-**English** | [简体中文](./README.zh-CN.md)
-
 [Try Demo → https://tinyclaw.me/](https://tinyclaw.me/)　｜　[Screenshots](#screenshots)　｜　[Quick Start](#quick-start)
 
 </div>

@@ -46,7 +46,7 @@ It leverages OpenClaw's REST API + WebSocket to provide a more intuitive and fle
 
 | Dashboard Overview          | Multi-Agent Chat            | Model Configuration         |
 |-----------------------------|-----------------------------|-----------------------------|
-| ![Dashboard](index.jpg) | ![Multi-Agent Chat](chat.jpg) | ![Agent Config](Model.jpg) |
+| ![Dashboard](index.jpg) | ![Multi-Agent Chat](chat.jpg) | ![Agent Config](model.jpg) |
 
 > More screenshots in [docs/screenshots.md](./docs/screenshots.md)
 
